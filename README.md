@@ -2,7 +2,8 @@
 
 This code intricately simulates the diffusion-limited aggregation
 Cellular Automata, a complex system based on the RWCA model [1,2,3].
-                                                                               - Each walker embarks on a fascinating journey of random steps across
+
+- Each walker embarks on a fascinating journey of random steps across
   the 2D lattice, guided by the RWCA rule. Meanwhile, a seed walker
   remains at the center site, a steadfast point in the ever-changing
   landscape.
